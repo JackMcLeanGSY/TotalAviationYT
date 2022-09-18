@@ -12,8 +12,8 @@ I'm **Jack**, an 16-year-old student and developer from Guernsey,Channel Islands
 
 ### You can check out some of my projects in action
 
-- [The-Password-Generator-]([repo](https://github.com/TotalAviationYT/The-Password-Generator-))
-- [Hangman]([repo](https://github.com/TotalAviationYT/Hangman))
+- [The-Password-Generator-]([repo](github.com/TotalAviationYT/The-Password-Generator-))
+- [Hangman]([repo](github.com/TotalAviationYT/Hangman))
 
 ### ... or just take a look at some cool repos
 
