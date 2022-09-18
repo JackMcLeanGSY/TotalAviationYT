@@ -34,4 +34,7 @@ You can find me across the web.
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=TotalAviationYT&count_private=true&theme=dark&show_icons=true">
   <br/>
+  <img src="https://github-readmestats.vercel.app/apiusername=TotalAviationYT&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
+
 </p>
