@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **TotalAviationYT/TotalAviationYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm **Jack**, an 16-year-old student and developer from Guernsey,Channel Islands. 
+
+**[Check out my personal site](??)**
+
+---
+
+### You can check out some of my projects in action
+
+- [The-Password-Generator-]([repo](https://github.com/TotalAviationYT/The-Password-Generator-))
+- [Hangman]([repo](https://github.com/TotalAviationYT/Hangman))
+
+### ... or just take a look at some cool repos
+
+- [Coming soon](https://github.com/TotalAviationYT?tab=repositories)
+- [Coming soon](https://github.com/TotalAviationYT?tab=repositories)
+
+## Get in touch
+
+You can find me across the web.
+
+- Discord: Total Aviation#4812
+- Email: [contacttotalaviation@gmail.com](mailto:contacttotalaviation@gmail.com)
+- Twitch: [https://www.twitch.tv/totalaviation](https://www.twitch.tv/totalaviation)
+----
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TotalAviationYT&theme=darkhub&margin-w=8&margin-h=8&no-frame=true">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TotalAviationYT&count_private=true&theme=dark&show_icons=true">
+  <br/>
+</p>
